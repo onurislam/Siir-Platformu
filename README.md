@@ -30,7 +30,7 @@ Bu uygulama, kullanıcıların şiirlerini paylaşabilecekleri, diğer kullanıc
 
 1. Repo'yu klonlayın
 ```bash
-git clone https://github.com/onurislam/siir-platformu.git
+git clone https://github.com/onurislam/Siir-Platformu.git
 cd siir-platformu
 ```
 
